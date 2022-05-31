@@ -1,6 +1,6 @@
 {
-    "name": "composer/hello",
-    "description": "this is first composer task",
+    "name": "asthapandey06/composer_task",
+    "description": "composer first file",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -9,6 +9,12 @@
             "email": "asthapandey2022jan@cedcoss.com"
         }
     ],
+    "repositories": [
+        {
+          "type": "vcs",
+          "url": "https://github.com/asthapandey06/composer_task.git"
+        }
+      ],
     "minimum-stability": "stable",
     "require": {}
 }
