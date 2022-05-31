@@ -9,11 +9,6 @@
             "email": "asthapandey2022jan@cedcoss.com"
         }
     ],
-    "repositories": [
-        {
-          "type": "vcs",
-          "url": "https://github.com/asthapandey06/composer_task.git"
-        }
-      ],
+    "minimum-stability": "stable",
     "require": {}
 }
