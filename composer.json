@@ -15,6 +15,5 @@
           "url": "https://github.com/asthapandey06/composer_task.git"
         }
       ],
-    "minimum-stability": "stable",
     "require": {}
 }
