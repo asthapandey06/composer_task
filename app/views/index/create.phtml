@@ -1,0 +1,24 @@
+<h2>Enter Details</h2>
+
+<?php echo $this->tag->form(""); ?>
+
+<p>
+    <label for="roll_number">Roll Number</label>
+    <?php echo $this->tag->textField("roll_number"); ?>
+</p>
+
+<p>
+    <label for="name">Name</label>
+    <?php echo $this->tag->textField("name"); ?>
+</p>
+
+<p>
+    <label for="address">Address</label>
+    <?php echo $this->tag->textField("address"); ?>
+</p>
+
+<p>
+    <?php echo $this->tag->submitButton("Submit"); ?>
+</p>
+
+</form>

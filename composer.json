@@ -1,0 +1,14 @@
+{
+    "name": "composer/hello",
+    "description": "this is first composer task",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "astha",
+            "email": "asthapandey2022jan@cedcoss.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
